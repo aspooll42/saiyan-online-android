@@ -1,0 +1,9 @@
+original/
+extraido/
+descompilado/
+ejecutable/
+publicar/
+logs/
+bin/
+obj/
+.DS_Store
